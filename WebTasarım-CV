@@ -1,0 +1,91 @@
+<html>
+    <head>
+       <body>
+
+        <ul type="none">
+         <li>KİŞİSEL</li>
+        </ul>
+
+        <ul type="square"> 
+         <li>İsim</li> 
+        </ul>
+
+        <ul type="none">
+         <li>Beyza Koçoğlu</li> 
+        </ul>
+
+        <ul type="square"> 
+         <li>Adres</li>
+        </ul>
+
+        <ul type="none">
+         <li>Kirazpınar mah. Evliya Çelebi Yerleşkesi Tavşanlı Yolu 10. KM</li>
+        </ul>
+
+        <ul type="square"> 
+         <li>Telefon Numarası</li>
+        </ul>
+
+        <ul type="none">
+         <li>0553 163 2137</li> 
+        </ul>
+
+        <ul type="square"> 
+         <li>E-posta</li>
+        </ul>
+
+        <ul type="none">
+         <li>beyzanurkocoglu25@gmail.com</li> 
+        </ul>
+
+       <ul type="square"> 
+        <li>Doğum Tarihi</li>
+       </ul>
+
+        <ul type="none">
+         <li>29.03.2003</li> 
+        </ul>
+
+        <ul type="square"> 
+         <li>Doğum Yeri</li>
+        </ul>
+    
+        <ul type="none">
+         <li>Eskişehir</li> 
+        </ul>
+
+        <ul type="square"> 
+         <li>Cinsiyet</li>
+        </ul>
+
+        <ul type="none">
+         <li>Kadın</li> 
+        </ul>
+
+        <ul type="square"> 
+         <li>İlgi Alanları</li>
+        </ul>
+    
+        <ul type="none">
+         <li>Spor Yapmak</li> 
+         <li>Dans Etmek</li> 
+        </ul>
+
+        <ul type="none">
+            <li>İŞ DENEYİMİ</li>
+        </ul>
+
+        <ul type="none">
+         <li>İnsan Kaynakları Stajyeri</li> 
+        </ul>
+    
+        <ul type="none"> 
+         <li>EĞİTİM DURUMU</li>
+        </ul>
+        
+        <ul type="none">
+         <li>Gazi ilkokulu (BURSA)</li> 
+         <li>İnönü Ortaokulu (BURSA)</li>
+         <li>Nur Hayati Kurtcan MTAL(BURSA)</li>
+         <li>Kütahya Dumlupınar Üniversitesi(KÜTAHYA)</li>
+        </ul>
